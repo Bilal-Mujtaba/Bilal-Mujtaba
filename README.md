@@ -1,7 +1,5 @@
-
-![github-header-image](https://github.com/Bilal-Mujtaba/Bilal-Mujtaba/assets/145763768/c595aeeb-e4dc-4455-a742-c6a357a04b63)
+# Hi, I'm Bilal 👋🏻 👨🏻‍💻
 ![Add a heading1](https://github.com/Bilal-Mujtaba/Bilal-Mujtaba/assets/145763768/79e3acff-9690-48a0-8dd0-0e17a9a39c1a)
-
 I'm a passionate coder, programmer, and on path to full stack web developer. I love learning new technologies and creating amazing web applications. I am also a student of Computer Science at Governmenrt College University, Lahore, Pakistan.
  ## 🌱 I’m currently learning ...
 
